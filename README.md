@@ -10,7 +10,7 @@ The Price Elasticity Analytics Dashboard is a Streamlit-based application design
 - **Modeling**: Compare price elasticity models, including:
   - OLS Log-Log
   - Hierarchical Bayes
-  - (Future Option) Machine Learning-based Elasticity Models
+  - Fixed Effects Panel 
 - **Visualization**: Interactive charts and tables for data exploration and model results.
 - **Export**: Download processed data and model results.
 
