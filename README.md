@@ -30,7 +30,7 @@ The processed data page provides an overview of the cleaned and merged dataset. 
 On this page, users can compare different price elasticity models. The dashboard currently supports:
 - OLS Log-Log
 - Hierarchical Bayes
-- Fixed Effects Panel
+- Fixed Effects Panel 
 
 ![Model Comparison](mc.png)
 
